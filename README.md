@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Claasic hello world repo
+Classic hello world repo.
+
+To help me practice how to use GitHub.
